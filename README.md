@@ -4,8 +4,8 @@ A: System Requirements:
 =======================
 1. JDK 1.7 or later
 2. Apache Maven
-3) Apache Tomcat-7
-4) MySql 5.6
+3. Apache Tomcat-7
+4. MySql 5.6
 
 ===========================
 B: Backend build instructions: 
